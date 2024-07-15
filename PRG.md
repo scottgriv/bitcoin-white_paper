@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** Bitcoin, Cryptocurrency <br>
 **Category:** White Paper <br>
-**Order:** 57 <br>
+**Order:** 59 <br>
 
 ## Parameters
 
